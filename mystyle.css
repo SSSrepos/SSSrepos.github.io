@@ -2,14 +2,13 @@ body
 {
 	background-color: black;
 	color: white;
+	font-family: 'Raleway', sans-serif;
 }
 
 #menu-bar 
 {
-	width:85%;
+	width:100%;
 	background-color: grey;
-	margin-left: auto;
-	margin-right: auto;
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -28,17 +27,6 @@ body
 {
 	color: white
 }
-
-/*#page-links
-{
-	position: sticky;
-	text-align: center;
-	width:100%;
-	background-color: dodgerblue;
-	bottom:1px;
-	left: 1px;
-	font-family: 'Raleway', sans-serif;
-}*/
 
 #everything-else
 {
