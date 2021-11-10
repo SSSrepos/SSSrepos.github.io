@@ -1,0 +1,49 @@
+body
+{
+	background-color: black;
+	color: white;
+}
+
+#menu-bar 
+{
+	width:85%;
+	background-color: grey;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Raleway', sans-serif;
+}
+
+.link-bar:link
+{
+	color: white;
+	text-decoration: none;
+}
+
+.link-bar:hover
+{
+	text-decoration: underline;
+}
+
+.link-bar:visited
+{
+	color: white
+}
+
+/*#page-links
+{
+	position: sticky;
+	text-align: center;
+	width:100%;
+	background-color: dodgerblue;
+	bottom:1px;
+	left: 1px;
+	font-family: 'Raleway', sans-serif;
+}*/
+
+#everything-else
+{
+	width:85%;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Raleway', sans-serif;
+}
